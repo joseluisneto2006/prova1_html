@@ -26,8 +26,8 @@ Desenvolvido em HTML5, com elementos semânticos, links, imagens, áudio, vídeo
 
 ## Como abrir
 
-    git clone URL_DO_SEU_REPOSITORIO
-    cd NOME_DA_PASTA
+    git clone https://github.com/joseluisneto2006/prova1_html
+    cd prova_html
 
 Depois, abra o arquivo `html/index.html` no navegador ou clique em **Go Live** no VS Code.
 
